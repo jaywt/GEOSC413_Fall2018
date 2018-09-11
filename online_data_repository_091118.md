@@ -32,7 +32,7 @@ Suppose we would like to download chloride concentration data in groundwater sam
 3. Click  'Show sites on map'
 4. Download data for 'Sample results (narrow)' in a desired file format
 
-#### Downloaded Data Set: [Click to download](./narrowresult.csv)
+#### Downloaded Data Set: [Click to download](./narrowresult.xlsx)
 
 ### After downloading
 Note: Since we download data only for one geochemical analyte (i.e., chloride), each row in the downloaded file represent a different sample. If we download multiple analytes together, each different analytes for the same sample will be in different rows and stacked up.
