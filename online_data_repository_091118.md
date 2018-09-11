@@ -39,4 +39,4 @@ Note: Since we download data only for one geochemical analyte (i.e., chloride), 
 ## Hydroclient
 The link to this database is [http://data.cuahsi.org](http://data.cuahsi.org)
 
-Today's lecture is suppose to be a hands-on session. Please follow the handout and walk yourself through a quick demo.
+Today's lecture is suppose to be a hands-on session. Please follow the handout and walk yourself through a quick demo: investigating a potential spill in Black Moshannon Creek.
