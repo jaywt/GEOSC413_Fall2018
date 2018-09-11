@@ -3,7 +3,7 @@
 Compiled by [Tao Wen at Penn State](http://jaywen.com) on September 10th, 2018.
 ***
 
-## Introduction
+## I. Introduction
 Today we will mainly introduce two online data repositories of water quality data.
 1. [Water Quality Portal (WQP)](https://www.waterqualitydata.us): Co-sponsored by the United States Geological Survey (USGS), the Environmental Protection Agency (EPA), and the National Water Quality Monitoring Council (NWQMC). It serves data collected by over 400 state, federal, tribal, and local agencies.
 2. [Hydroclient](http://data.cuahsi.org): Online database for hydro-related data (including water quality data) maintained by the Consortium of Universities for the Advancement of Hydrologic Science, Inc. (CUAHSI). Multiple institutions are contributing data to this database, including Penn State.
@@ -13,7 +13,7 @@ Today we will mainly introduce two online data repositories of water quality dat
 2. All data are published to [Hydroclient](http://data.cuahsi.org).
 ***
 
-## Water Quality Portal (WQP)
+## II. Water Quality Portal (WQP)
 The link to this database is [https://www.waterqualitydata.us](https://www.waterqualitydata.us).
 
 Detailed instruction to how to use this online database can be found at their [website](https://www.waterqualitydata.us/portal_userguide/). Here I include most essential information that you need to know for downloading water quality data to kick off.
@@ -36,7 +36,7 @@ Suppose we would like to download chloride concentration data in groundwater sam
 Note: Since we download data only for one geochemical analyte (i.e., chloride), each row in the downloaded file represent a different sample. If we download multiple analytes together, each different analytes for the same sample will be in different rows and stacked up.
 ***
 
-## Hydroclient
+## III. Hydroclient
 The link to this database is [http://data.cuahsi.org](http://data.cuahsi.org)
 
 Today's lecture is suppose to be a hands-on session. Please follow the handout and walk yourself through a quick demo: investigating a potential spill in Black Moshannon Creek.
